@@ -10,7 +10,7 @@ const movies = [
         director: "Christopher Nolan",
         rating: 4.8,
         synopsis: "Un grupo de exploradores espaciales viaja a través de un agujero de gusano en el espacio en un intento de garantizar la supervivencia de la humanidad.",
-        poster: "/public/images/interestelar.jpg",
+        poster: "/images/interestelar.jpg",
         trailer: "zSWdZVtXT7E",
         upcoming: false
     },
@@ -24,7 +24,7 @@ const movies = [
         director: "Baz Luhrmann",
         rating: 4.3,
         synopsis: "Un escritor y corredor de bolsa, Nick Carraway, encuentra el camino al mundo del misterioso millonario Jay Gatsby y su amor por Daisy Buchanan.",
-        poster: "/public/images/Gastby.jpg",
+        poster: "/images/Gastby.jpg",
         trailer: "rARN6agiW7o",
         upcoming: false
     },
@@ -38,7 +38,7 @@ const movies = [
         director: "Damien Chazelle",
         rating: 4.6,
         synopsis: "Una historia de amor entre un pianista de jazz y una actriz aspirante en Los Ángeles mientras persiguen sus sueños en una ciudad conocida por destruir esperanzas y romper corazones.",
-        poster: "/public/images/la la land.jpg",
+        poster: "/images/la la land.jpg",
         trailer: "0pdqf4P9MB8",
         upcoming: false
     },
@@ -52,7 +52,7 @@ const movies = [
         director: "Denis Villeneuve",
         rating: 4.7,
         synopsis: "Un nuevo blade runner descubre un secreto largamente oculto que tiene el potencial de sumir lo que queda de la sociedad en el caos.",
-        poster: "/public/images/blade.jpg",
+        poster: "/images/blade.jpg",
         trailer: "gCcx85zbxz4",
         upcoming: true
     },
@@ -66,7 +66,7 @@ const movies = [
         director: "Christopher Nolan",
         rating: 4.9,
         synopsis: "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Gotham, Batman debe aceptar una de las pruebas psicológicas y físicas más grandes de su capacidad para luchar contra la injusticia.",
-        poster: "/public/images/batman.png",
+        poster: "/images/batman.png",
         trailer: "EXeTwQWrcwY",
         upcoming: false
     },
@@ -80,7 +80,7 @@ const movies = [
         director: "Denis Villeneuve",
         rating: 4.5,
         synopsis: "Paul Atreides, un joven brillante y talentoso nacido con un gran destino, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su pueblo.",
-        poster: "/public/images/dune.jpg",
+        poster: "/images/dune.jpg",
         trailer: "8g18jFHCLXk",
         upcoming: true
     },
@@ -94,7 +94,7 @@ const movies = [
         director: "Kyle Newacheck",
         rating: 4.8,
         synopsis: "El temperamental Happy Gilmore debe mantener la compostura en su regreso al campo de golf para ayudar a su hija a cumplir sus sueños.",
-        poster: "/public/images/happy.jpg",
+        poster: "/images/happy.jpg",
         trailer: "UNFUzrVrmgQ",
         upcoming: true
     },
